@@ -1,2 +1,2 @@
-# Beeline---BeeWeather
+# Beeline - BeeWeather
 Информационная система предназначенная для оповещения абонентов Beeline о прогнозе погоды
